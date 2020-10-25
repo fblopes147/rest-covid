@@ -1,0 +1,17 @@
+br/com/fiap/restcovid/repository/AssociateRepository.class
+br/com/fiap/restcovid/RestCovidApplication$1.class
+br/com/fiap/restcovid/entity/Associate.class
+br/com/fiap/restcovid/repository/MeasureRepository.class
+br/com/fiap/restcovid/service/AssociateService.class
+br/com/fiap/restcovid/service/MappingService.class
+br/com/fiap/restcovid/repository/MappingRepository.class
+br/com/fiap/restcovid/service/MeasureService.class
+br/com/fiap/restcovid/entity/Mapping.class
+br/com/fiap/restcovid/service/MappingServiceImp.class
+br/com/fiap/restcovid/controllers/AssociateController.class
+br/com/fiap/restcovid/entity/Measure.class
+br/com/fiap/restcovid/controllers/MeasureController.class
+br/com/fiap/restcovid/service/AssociateServiceImp.class
+br/com/fiap/restcovid/service/MeasureServiceImp.class
+br/com/fiap/restcovid/controllers/MappingController.class
+br/com/fiap/restcovid/RestCovidApplication.class
